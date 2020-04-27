@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  MFC_0420_1Dlg.cpp
+c:\users\hhx\documents\vc++\projects\mfc_0420\mfc_0420_1\mfc_0420_1\mfc_0420_1dlg.cpp(213): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\hhx\documents\vc++\projects\mfc_0420\mfc_0420_1\mfc_0420_1\mfc_0420_1dlg.cpp(224): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  MFC_0420_1.cpp
+  正在生成代码...
+  MFC_0420_1.vcxproj -> C:\Users\HHX\Documents\vc++\Projects\MFC_0420\MFC_0420_1\x64\Debug\MFC_0420_1.exe
+  MFC_0420_1.vcxproj -> C:\Users\HHX\Documents\vc++\Projects\MFC_0420\MFC_0420_1\x64\Debug\MFC_0420_1.pdb (Full PDB)
